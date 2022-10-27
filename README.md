@@ -1,2 +1,2 @@
 # partickcurling.github.io
-<p>Hello World</p>
+<p><b>Hello World.</b></br><i>Powered by the readme file</i><br></p>
